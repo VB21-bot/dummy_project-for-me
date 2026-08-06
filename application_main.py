@@ -1,7 +1,7 @@
 import sys 
 from lib import DataManipulation, DataReader, Utils
 from pyspark.sql.functions import * 
-# checking git hi hihi
+# check for merge comment.
 if __name__=='__main__' :
 
     if len(sys.argv)<2:
